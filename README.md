@@ -27,6 +27,3 @@ This app allows users to measure time with millisecond precision using Start, Pa
 - ConstraintLayout
 
 ---
-
-## 📂 Project Structure
-
